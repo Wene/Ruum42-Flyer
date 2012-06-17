@@ -15,9 +15,40 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="Flyer.svg">
+   sodipodi:docname="Flyer.svg"
+   enable-background="new">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient4906">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop4908" />
+      <stop
+         id="stop4914"
+         offset="0.33000001"
+         style="stop-color:#00ff00;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0.66000003"
+         id="stop4916" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="1"
+         id="stop4910" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4884">
+      <stop
+         style="stop-color:#0000f0;stop-opacity:1;"
+         offset="0"
+         id="stop4886" />
+      <stop
+         style="stop-color:#5e5eff;stop-opacity:1;"
+         offset="1"
+         id="stop4888" />
+    </linearGradient>
     <radialGradient
        id="SVGID_1_"
        cx="274.82199"
@@ -532,15 +563,15 @@
     </linearGradient>
     <radialGradient
        r="499.01535"
-       fy="762.50195"
+       fy="802.79614"
        fx="470.25323"
-       cy="762.50195"
+       cy="802.79614"
        cx="470.25323"
-       gradientTransform="matrix(1,0,0,1.2024291,-2.2656252e-7,-114.05834)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient4898"
        xlink:href="#linearGradient4772-5-3"
-       inkscape:collect="always" />
+       inkscape:collect="always"
+       gradientTransform="matrix(1.9554661,0.00796524,-0.00809717,1.9878543,-442.81067,-796.79127)" />
     <radialGradient
        id="SVGID_1_-9"
        cx="274.82199"
@@ -1215,6 +1246,15 @@
        y1="259.33151"
        x2="195.37869"
        y2="259.33151" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4884"
+       id="linearGradient4898"
+       x1="67.711304"
+       y1="253.33905"
+       x2="676.38318"
+       y2="764.41718"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -1224,10 +1264,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="328.49161"
-     inkscape:cy="515.10379"
+     inkscape:cx="422.8884"
+     inkscape:cy="485.90726"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:object-nodes="true"
      inkscape:snap-bbox="true"
@@ -1238,7 +1278,7 @@
      inkscape:snap-bbox-midpoints="false"
      inkscape:window-width="1280"
      inkscape:window-height="1004"
-     inkscape:window-x="1276"
+     inkscape:window-x="-4"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
      inkscape:snap-global="true" />
@@ -1250,7 +1290,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1258,25 +1298,26 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Hintergrund"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <path
-       style="fill:#de8787;display:inline"
+       style="fill:#f62557;fill-opacity:1;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 744.09448,488.214 0,94.87274 -273.84125,219.70943 z"
+       d="m 744.09448,539.64257 0,94.87274 -273.84125,168.28086 z"
        id="path4105"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#5fd38d;display:inline"
+       style="fill:#2aa22c;fill-opacity:1;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="M 0,723.10364 470.25323,802.79617 0,806.56904 z"
+       d="M 0,744.12611 470.25323,802.79617 0,867.99761 z"
        id="path4105-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#aaffcc;display:inline"
+       style="fill:#5aafff;fill-opacity:1;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
        d="m 744.09448,763.08674 0,77.06781 -273.84125,-37.35838 z"
@@ -1284,66 +1325,66 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#ddff55;display:inline"
+       style="fill:#ddff0f;fill-opacity:1;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 744.09448,1013.0117 0,39.3505 -62.85714,0 -210.98411,-249.56603 z"
+       d="m 744.09448,1013.0117 0,39.3505 -108.57143,0 -165.26982,-249.56603 z"
        id="path4105-0-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#deaa87;display:inline"
+       style="fill:#de67c1;fill-opacity:1;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 578.3802,1052.3622 -61.02585,0 -47.10112,-249.56603 z"
+       d="m 496.95163,1052.3622 -96.74014,0 70.04174,-249.56603 z"
        id="path4105-0-5-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#decd87;display:inline"
+       style="fill:#4af53b;fill-opacity:1;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 364.49721,1052.3622 -53.561,0 159.31702,-249.56603 z"
+       d="m 303.06864,1052.3622 -84.98957,0 252.17416,-249.56603 z"
        id="path4105-0-5-7-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#eeffaa;display:inline"
+       style="fill:#eeff62;fill-opacity:1;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 0,1012.2833 470.25323,-209.48713 -415.0313,249.56603 -55.221927578125,0 z"
+       d="M 0,994.10055 470.25323,802.79617 75.424981,1052.3622 l -75.424978578125,0 z"
        id="path4105-9-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#ffb380;display:inline"
+       style="fill:#ffd336;fill-opacity:1;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="M 0,271.34374 470.25323,802.79617 0,381.67507 z"
+       d="M 0,321.34374 470.25323,802.79617 0,468.81793 z"
        id="path4105-9-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#decd87;display:inline"
+       style="fill:#de3900;fill-opacity:1;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="M 169.15909,0 470.25323,802.79617 98.57143,0 c 0,0 -7.125296,-6.2043207e-6 70.58766,0 z"
+       d="M 169.15909,0 470.25323,802.79617 50.287159,0 z"
        id="path4105-9-1-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
-       style="fill:#ffe680;display:inline"
+       style="fill:#29acb3;fill-opacity:1;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 712.66591,0 31.42857,-1.7382813e-5 0,89.642593382813 -273.84125,713.153594 z"
+       d="m 672.25981,0 71.83467,-1.7382813e-5 0,89.642593382813 -273.84125,713.153594 z"
        id="path4105-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#b3ff80;display:inline"
+       style="fill:#71c837;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 412.01624,0 50.64967,0 7.58732,802.79617 z"
+       d="m 361.50861,0 101.1573,0 7.58732,802.79617 z"
        id="path4105-9-1-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -1352,7 +1393,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Farbverlauf"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <rect
        style="fill:url(#radialGradient4898);fill-opacity:1;stroke:none;display:inline"
        id="rect3994"
@@ -1368,41 +1410,46 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Borg9;-inkscape-font-specification:Borg9"
-       x="114.6315"
-       y="129.98376"
-       id="text4307"
-       sodipodi:linespacing="125%"
-       transform="matrix(1,0,-0.64753368,1,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4309"
-         x="114.6315"
+    <g
+       id="g4900"
+       style="fill-opacity:1;fill:#e4e421;stroke:#000000;stroke-opacity:1;stroke-width:2.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-linejoin:round;stroke-linecap:round">
+      <text
+         transform="matrix(1,0,-0.64753368,1,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4307"
          y="129.98376"
-         style="font-size:120px;font-style:normal;font-weight:normal;-inkscape-font-specification:Borg9;fill:#ffff00">Ruum42</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:19.22788239000000132px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Borg9;-inkscape-font-specification:Borg9"
-       x="164.01877"
-       y="185.00073"
-       id="text4307-1"
-       sodipodi:linespacing="125%"
-       transform="matrix(1,0,-0.64344002,1,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4309-3"
-         x="164.01877"
+         x="114.6315"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e4e421;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Borg9;-inkscape-font-specification:Borg9"
+         xml:space="preserve"><tspan
+           style="font-size:120px;font-style:normal;font-weight:normal;fill:#e4e421;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Borg9"
+           y="129.98376"
+           x="114.6315"
+           id="tspan4309"
+           sodipodi:role="line">Ruum42</tspan></text>
+      <text
+         transform="matrix(1,0,-0.64344002,1,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4307-1"
          y="185.00073"
-         style="font-size:41.20260619999999818px;font-style:normal;font-weight:normal;-inkscape-font-specification:Borg9;fill:#ffff00">Hackerspace St. Gallen</tspan></text>
+         x="164.01877"
+         style="font-size:19.22788239px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e4e421;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Borg9;-inkscape-font-specification:Borg9"
+         xml:space="preserve"><tspan
+           style="font-size:41.2026062px;font-style:normal;font-weight:normal;fill:#e4e421;fill-opacity:1;stroke:#000000;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;-inkscape-font-specification:Borg9"
+           y="185.00073"
+           x="164.01877"
+           id="tspan4309-3"
+           sodipodi:role="line">Hackerspace St. Gallen</tspan></text>
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Inhalt"
-     style="display:inline">
+     style="display:inline;opacity:1"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient4898);fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="67.305054"
        y="277.8078"
        id="text5122"
@@ -1411,66 +1458,66 @@
          id="tspan5124"
          x="67.305054"
          y="277.8078"
-         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Verdana Bold;fill:#ffff00">Linuxtreff</tspan><tspan
+         style="font-size:32px;font-weight:bold;fill:url(#linearGradient4898);fill-opacity:1;-inkscape-font-specification:Verdana Bold">Linuxtreff</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="317.8078"
          id="tspan5126"
-         style="font-size:32px;fill:#ffff00" /><tspan
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1" /><tspan
          sodipodi:role="line"
          x="67.305054"
          y="357.8078"
-         style="font-size:32px;fill:#ffff00"
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1"
          id="tspan5138">Jeden Dienstag ab 18:30 im Ruum42:</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="397.8078"
-         style="font-size:32px;fill:#ffff00"
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1"
          id="tspan5134" /><tspan
          sodipodi:role="line"
          x="67.305054"
          y="437.8078"
-         style="font-size:32px;fill:#ffff00"
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1"
          id="tspan5128">Freier Linux Benutzertreff</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="477.8078"
-         style="font-size:32px;fill:#ffff00"
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1"
          id="tspan5130" /><tspan
          sodipodi:role="line"
          x="67.305054"
          y="517.8078"
-         style="font-size:32px;fill:#ffff00"
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1"
          id="tspan5150">Vom Einsteiger bis zum Profi sind alle </tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="557.8078"
-         style="font-size:32px;fill:#ffff00"
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1"
          id="tspan5154">willkommen. Keine Anmeldung</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="597.8078"
-         style="font-size:32px;fill:#ffff00"
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1"
          id="tspan5156">erforderlich. Einfach mal reinschauen!</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="637.8078"
-         style="font-size:32px;fill:#ffff00"
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1"
          id="tspan5158" /><tspan
          sodipodi:role="line"
          x="67.305054"
          y="677.8078"
-         style="font-size:32px;fill:#ffff00"
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1"
          id="tspan5160">Weitere Infos unter</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="717.8078"
-         style="font-size:32px;fill:#ffff00"
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1"
          id="tspan5162">ruum42.ch</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="757.8078"
-         style="font-size:32px;fill:#ffff00"
+         style="font-size:32px;fill:url(#linearGradient4898);fill-opacity:1"
          id="tspan14512">und sg.linuxtreff.ch</tspan></text>
     <g
        style="display:inline"
