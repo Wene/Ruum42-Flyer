@@ -1218,13 +1218,13 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="389.2059"
+     inkscape:cx="328.49161"
      inkscape:cy="515.10379"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
@@ -1241,7 +1241,7 @@
      inkscape:window-x="1276"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -1263,7 +1263,7 @@
        style="fill:#de8787;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 744.09448,355.35686 0,349.15845 -273.84125,98.28086 z"
+       d="m 744.09448,488.214 0,94.87274 -273.84125,219.70943 z"
        id="path4105"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -1271,7 +1271,7 @@
        style="fill:#5fd38d;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="M 2.421875e-6,590.2465 470.25323,802.79617 2.421875e-6,926.56904 z"
+       d="M 0,723.10364 470.25323,802.79617 0,806.56904 z"
        id="path4105-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -1279,7 +1279,7 @@
        style="fill:#aaffcc;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 744.09448,704.51531 0,214.21067 -273.84125,-115.92981 z"
+       d="m 744.09448,763.08674 0,77.06781 -273.84125,-37.35838 z"
        id="path4105-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -1287,7 +1287,7 @@
        style="fill:#ddff55;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 744.09448,918.72598 0,133.63622 -62.85714,0 -210.98411,-249.56603 z"
+       d="m 744.09448,1013.0117 0,39.3505 -62.85714,0 -210.98411,-249.56603 z"
        id="path4105-0-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1295,7 +1295,7 @@
        style="fill:#deaa87;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 681.23734,1052.3622 -245.31156,0 34.32745,-249.56603 z"
+       d="m 578.3802,1052.3622 -61.02585,0 -47.10112,-249.56603 z"
        id="path4105-0-5-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -1303,7 +1303,7 @@
        style="fill:#decd87;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 435.92578,1052.3622 -219.27528,0 253.60273,-249.56603 z"
+       d="m 364.49721,1052.3622 -53.561,0 159.31702,-249.56603 z"
        id="path4105-0-5-7-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -1311,7 +1311,7 @@
        style="fill:#eeffaa;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="M 2.421875e-6,926.56904 470.25323,802.79617 216.6505,1052.3622 l -216.650497578125,0 z"
+       d="m 0,1012.2833 470.25323,-209.48713 -415.0313,249.56603 -55.221927578125,0 z"
        id="path4105-9-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1319,7 +1319,7 @@
        style="fill:#ffb380;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="M 2.421875e-6,58.486603 470.25323,802.79617 2.421875e-6,590.2465 z"
+       d="M 0,271.34374 470.25323,802.79617 0,381.67507 z"
        id="path4105-9-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -1327,15 +1327,15 @@
        style="fill:#decd87;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="M 316.30195,-1.7382813e-5 470.25323,802.79617 2.421875e-6,58.486603 l 0,-58.486620382813 z"
+       d="M 169.15909,0 470.25323,802.79617 98.57143,0 c 0,0 -7.125296,-6.2043207e-6 70.58766,0 z"
        id="path4105-9-1-7"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       sodipodi:nodetypes="cccc" />
     <path
        style="fill:#ffe680;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 678.3802,-1.7382813e-5 65.71428,0 0,355.356877382813 -273.84125,447.43931 z"
+       d="m 712.66591,0 31.42857,-1.7382813e-5 0,89.642593382813 -273.84125,713.153594 z"
        id="path4105-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
@@ -1343,7 +1343,7 @@
        style="fill:#b3ff80;display:inline"
        inkscape:transform-center-x="-33.82779"
        inkscape:transform-center-y="13.12938"
-       d="m 316.30195,-1.7382813e-5 362.07825,0 L 470.25323,802.79617 z"
+       d="m 412.01624,0 50.64967,0 7.58732,802.79617 z"
        id="path4105-9-1-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -1370,7 +1370,7 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Borg9;-inkscape-font-specification:Borg9"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Borg9;-inkscape-font-specification:Borg9"
        x="114.6315"
        y="129.98376"
        id="text4307"
@@ -1380,10 +1380,10 @@
          id="tspan4309"
          x="114.6315"
          y="129.98376"
-         style="font-size:120px;font-style:normal;font-weight:normal;-inkscape-font-specification:Borg9">Ruum42</tspan></text>
+         style="font-size:120px;font-style:normal;font-weight:normal;-inkscape-font-specification:Borg9;fill:#ffff00">Ruum42</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:19.22788239px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Borg9;-inkscape-font-specification:Borg9"
+       style="font-size:19.22788239000000132px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffff00;fill-opacity:1;stroke:none;font-family:Borg9;-inkscape-font-specification:Borg9"
        x="164.01877"
        y="185.00073"
        id="text4307-1"
@@ -1393,7 +1393,7 @@
          id="tspan4309-3"
          x="164.01877"
          y="185.00073"
-         style="font-size:41.2026062px;font-style:normal;font-weight:normal;-inkscape-font-specification:Borg9">Hackerspace St. Gallen</tspan></text>
+         style="font-size:41.20260619999999818px;font-style:normal;font-weight:normal;-inkscape-font-specification:Borg9;fill:#ffff00">Hackerspace St. Gallen</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1402,7 +1402,7 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
+       style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke:none;display:inline;font-family:Verdana;-inkscape-font-specification:Verdana"
        x="67.305054"
        y="277.8078"
        id="text5122"
@@ -1411,66 +1411,66 @@
          id="tspan5124"
          x="67.305054"
          y="277.8078"
-         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Verdana Bold">Linuxtreff</tspan><tspan
+         style="font-size:32px;font-weight:bold;-inkscape-font-specification:Verdana Bold;fill:#ffff00">Linuxtreff</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="317.8078"
          id="tspan5126"
-         style="font-size:32px" /><tspan
+         style="font-size:32px;fill:#ffff00" /><tspan
          sodipodi:role="line"
          x="67.305054"
          y="357.8078"
-         style="font-size:32px"
+         style="font-size:32px;fill:#ffff00"
          id="tspan5138">Jeden Dienstag ab 18:30 im Ruum42:</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="397.8078"
-         style="font-size:32px"
+         style="font-size:32px;fill:#ffff00"
          id="tspan5134" /><tspan
          sodipodi:role="line"
          x="67.305054"
          y="437.8078"
-         style="font-size:32px"
+         style="font-size:32px;fill:#ffff00"
          id="tspan5128">Freier Linux Benutzertreff</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="477.8078"
-         style="font-size:32px"
+         style="font-size:32px;fill:#ffff00"
          id="tspan5130" /><tspan
          sodipodi:role="line"
          x="67.305054"
          y="517.8078"
-         style="font-size:32px"
+         style="font-size:32px;fill:#ffff00"
          id="tspan5150">Vom Einsteiger bis zum Profi sind alle </tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="557.8078"
-         style="font-size:32px"
+         style="font-size:32px;fill:#ffff00"
          id="tspan5154">willkommen. Keine Anmeldung</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="597.8078"
-         style="font-size:32px"
+         style="font-size:32px;fill:#ffff00"
          id="tspan5156">erforderlich. Einfach mal reinschauen!</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="637.8078"
-         style="font-size:32px"
+         style="font-size:32px;fill:#ffff00"
          id="tspan5158" /><tspan
          sodipodi:role="line"
          x="67.305054"
          y="677.8078"
-         style="font-size:32px"
+         style="font-size:32px;fill:#ffff00"
          id="tspan5160">Weitere Infos unter</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="717.8078"
-         style="font-size:32px"
+         style="font-size:32px;fill:#ffff00"
          id="tspan5162">ruum42.ch</tspan><tspan
          sodipodi:role="line"
          x="67.305054"
          y="757.8078"
-         style="font-size:32px"
+         style="font-size:32px;fill:#ffff00"
          id="tspan14512">und sg.linuxtreff.ch</tspan></text>
     <g
        style="display:inline"
